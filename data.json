@@ -1,0 +1,26 @@
+[
+  {
+    "first_name": "Jack",
+    "last_name": "Jackson",
+    "birth_year": 2002,
+    "birthplace": "Finland"
+  },
+  {
+    "first_name": "Mike",
+    "last_name": "Jackson",
+    "birth_year": 2003,
+    "birthplace": "Sweden"
+  },
+  {
+    "first_name": "Noah",
+    "last_name": "Jackson",
+    "birth_year": 2004,
+    "birthplace": "Estonia"
+  },
+  {
+    "first_name": "Joku",
+    "last_name": "Jackson",
+    "birth_year": 2005,
+    "birthplace": "Finland"
+  }
+]
